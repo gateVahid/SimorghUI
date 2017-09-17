@@ -7,5 +7,7 @@ package org.gateco.simorghui;
 public class change {
 
 
+    public void ch(){}
+    
 
 }
