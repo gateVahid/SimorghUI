@@ -76,16 +76,6 @@
                     android:orientation="vertical"></LinearLayout>
 
                 <ImageButton
-                    android:id="@+id/imageButton5"
-                    android:layout_width="50dp"
-                    android:layout_height="50dp"
-                    android:layout_marginLeft="4dp"
-                    android:layout_marginRight="4dp"
-                    android:layout_marginTop="8dp"
-                    android:background="@drawable/round_blue"
-                    android:src="@drawable/edit_pen" />
-
-                <ImageButton
                     android:id="@+id/imageButton4"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
@@ -104,6 +94,16 @@
                     android:layout_marginTop="8dp"
                     android:background="@drawable/round_blue"
                     android:src="@drawable/cancel_cross" />
+
+                <ImageButton
+                    android:id="@+id/imageButton5"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="4dp"
+                    android:layout_marginRight="4dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/round_blue"
+                    android:src="@drawable/edit_pen" />
 
             </LinearLayout>
         </LinearLayout>
