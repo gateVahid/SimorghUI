@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="PrimaryText">#757575</color>
+    <color name="secondaryText">#9E9E9E</color>
+    <color name="background">#eee</color>
+
+    <!--app colors-->
+    
+    <color name="Entertainment">#FFC107</color>
+    <color name="Food">#f44336</color>
+    <color name="comment">#009AFF</color>
+    <color name="price">#10c43a</color>
+
+    <!--entertainment page-->
+    <color name="blue">#00bcd4</color>
+    <color name="orange">#f4511e</color>
+    <color name="amber">#ff9800</color>
+    <color name="green">#009688</color>
+    <color name="red">#f44336</color>
+    <color name="indigo">#5c6bc0</color>
+    <color name="yellow">#FFC107</color>
+
+
+
+
+
+</resources>
